@@ -130,13 +130,15 @@ It's great to have you on board! Without you the players would only have each ot
 
 1. **Don't worry about sharing too little. Worry about sharing too much.** The purpose of the game is to learn *something* new, not *everything*. If you share too much you can overwhelm the players and they won't have a good time.
 
-2. When it's a player's turn, **allow them to decide** how much they want to learn, and from who. They may decide to talk to another player who is on a level closer to them instead of you. Maybe this is because they feel nervous about talking to a proficient speaker like you, so resist the temptation to jump in. Only interrupt if you see that the players are about to learn something that is definitely incorrect.
+2. When it's a player's turn, **allow them to decide** how much they want to learn, and from who. They may decide to talk to another player who is on a level closer to them instead of you. Maybe this is because they feel nervous about talking to a proficient speaker like you, so resist the temptation to jump in.
 
 3. When a player decides to talk to you, **let them take their time**. If they take time to search for a word, patiently let them search. Only finish their sentence for them if they ask you for help with their eyes.
 
 4. **Stay at the player's level.** Do your best to understand the level of the player whose turn it is, and speak with them at that level. When you sense that something is new for them, just focus on helping them learn the new thing. Don't introduce another new thing until they tell you that they are ready.
 
+5. **Correct one thing at a time.** If you are sure that this is what the player wants, it's OK to correct their mistakes. But it's not necessary to correct all their mistakes, unless they ask you to. If you correct one thing, the player will remember it. If you correct too many, the player will remember nothing and won't have a good time.
+
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
 -----
-Version 2.1 <br>(c) 2020 Joel Thomas
+Version 2.2 <br>(c) 2020 Joel Thomas
