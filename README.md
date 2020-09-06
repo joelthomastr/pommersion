@@ -1,6 +1,16 @@
-# Pommersion
+# Pommersion <a name="top"></a>
 
 *A game of language learning through immersion*
+
+[Overview](#overview)<br>
+[Gameplay](#gameplay)<br>
+&nbsp;&nbsp;&nbsp;[During a pomodoro](#pomodoro)<br>
+&nbsp;&nbsp;&nbsp;[During a break](#break)<br>
+[Backstory](#backstory)<br>
+[Guidance for Roles](#guidance)<br>
+&nbsp;&nbsp;&nbsp;[How to Be a Player](#player)<br>
+&nbsp;&nbsp;&nbsp;[How to Be a Moderator](#moderator)<br>
+&nbsp;&nbsp;&nbsp;[How to Be a Helper](#helper)<br>
 
 | General Information | |
 | ----------------- | ---------- |
@@ -8,7 +18,7 @@
 | Number of players | 1-8 players<br>1 moderator<br>helpers (optional) |
 | Purpose | To learn something new in your target language! |
 
-## Overview
+## Overview <a name="overview"></a>
 
 The **players** are motivated language learners. Their goal is to learn something new in the target language: a new word, a new construction, or a new phrase. Everyone who learns at least one new thing wins the game!
 
@@ -27,7 +37,9 @@ A **pomodoro** is a period of immersion. The most important rule of a pomodoro i
 
 There are regular **breaks** to give players an opportunity to ask questions in their own language.
 
-## Gameplay
+<div style="text-align:right"><a href="#top">Table of Contents</a></div>
+
+## Gameplay <a name="gameplay"></a>
 
 A game of Pommersion lasts for 60 minutes:
 
@@ -38,7 +50,7 @@ A game of Pommersion lasts for 60 minutes:
 * Third pomodoro (10 minutes)
   * Third break (15 minutes)
 
-### During a pomodoro
+### During a pomodoro <a name="pomodoro"></a>
 
 The moderator tells each player when it is their **turn**. Each player gets at least one turn during a game. Usually all players get one turn each before a player gets a second turn, but the moderator can make exceptions if necessary.
 
@@ -52,13 +64,15 @@ During their turn, it is up to the player what they talk about, and with who. Fo
 
 The player can decide that their turn is over whenever they want. Or, if they take too long the moderator can end their turn.
 
-### During a break
+### During a break <a name="break"></a>
 
 Everybody is free to speak whichever language they want.
 
 The moderator gives each player an opportunity to ask questions about the target language. The first two breaks are short, so questions and answers have to be short and sweet. Complex questions and answers must be left until the third break.
 
-## Backstory
+<div style="text-align:right"><a href="#top">Table of Contents</a></div>
+
+## Backstory <a name="backstory"></a>
 
 When adults learn a language, they often spend most of their time and energy on learning *about* it. This doesn't work, because the key that unlocks the brain's language acquisition circuits is immersion, or meaningful and motivated communication in the target language.
 
@@ -68,11 +82,13 @@ But immersion is hard. Opportunities for immersion can be few and far between, a
 
 It is designed to be playable over a videoconference call such as Zoom.
 
+<div style="text-align:right"><a href="#top">Table of Contents</a></div>
+
 ## Guidance for Roles <a name="guidance"></a>
 
 Please be sure to read the notes below about your role before you play your first game of Pommersion.
 
-### How to Be a Player
+### How to Be a Player <a name="player"></a>
 
 1. **Know what you want to learn.** It's good to have something in mind before the game starts. But be careful not to set your sights too high. Don't forget, you only need to learn *something* new before the end of the game to win!
 
@@ -88,7 +104,9 @@ Please be sure to read the notes below about your role before you play your firs
 
 If you are a more advanced player, sometimes you can also be a helper. But please make sure you read through the guidance for helpers before you jump in.
 
-### How to Be a Moderator
+<div style="text-align:right"><a href="#top">Table of Contents</a></div>
+
+### How to Be a Moderator <a name="moderator"></a>
 
 Your main job is to make sure that *everybody* has a *good* time.
 
@@ -104,7 +122,9 @@ Your main job is to make sure that *everybody* has a *good* time.
 
 If you are a player, give yourself a turn. If you are a helper, all the guidance for helpers also applies to you.
 
-### How to Be a Helper
+<div style="text-align:right"><a href="#top">Table of Contents</a></div>
+
+### How to Be a Helper <a name="helper"></a>
 
 It's great to have you on board! Without you the players would only have each other, so thanks for being here. But with great power comes great responsibility. You have the power to make or break the game.
 
@@ -116,5 +136,7 @@ It's great to have you on board! Without you the players would only have each ot
 
 4. **Stay at the player's level.** Do your best to understand the level of the player whose turn it is, and speak with them at that level. When you sense that something is new for them, just focus on helping them learn the new thing. Don't introduce another new thing until they tell you that they are ready.
 
+<div style="text-align:right"><a href="#top">Table of Contents</a></div>
+
 -----
-Version 2.0 <br>(c) 2020 Joel Thomas
+Version 2.1 <br>(c) 2020 Joel Thomas
