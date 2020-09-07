@@ -11,6 +11,7 @@
 &nbsp;&nbsp;&nbsp;[How to Be a Player](#player)<br>
 &nbsp;&nbsp;&nbsp;[How to Be a Moderator](#moderator)<br>
 &nbsp;&nbsp;&nbsp;[How to Be a Helper](#helper)<br>
+&nbsp;&nbsp;&nbsp;[Ideas For Your Next Turn](#ideas)
 
 | General Information | |
 | ----------------- | ---------- |
@@ -78,9 +79,9 @@ When adults learn a language, they often spend most of their time and energy on 
 
 But immersion is hard. Opportunities for immersion can be few and far between, and especially for English speakers there can be ways to avoid them.
 
-*Pommersion* is a portmonteau of *pomodoro* and *immersion*. It uses the essential elements of the pomodoro technique in a game that gives adult language learners what they need: stress-free time *in* the language, and time to talk *about* the language.
+*Pommersion* is a portmonteau of *pomodoro* and *immersion*. It uses the essential elements of the pomodoro technique in a game that gives adult language learners what they need: stress-free time *in* the language, and time to talk *about* the language. It is designed to be playable over a videoconference call such as Zoom.
 
-It is designed to be playable over a videoconference call such as Zoom.
+The immediate inspiration was the [Viossa project](https://www.youtube.com/watch?v=F1LBCMWDNwo), a constructed pidgin that relies on absolute immersion. Other influences include the community language revitalization program [Where Are Your Keys?](https://whereareyourkeys.org/) and elicitation techniques such as those [demonstrated](https://www.youtube.com/watch?v=sYpWp7g7XWU) by field linguist Daniel Everett.
 
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
@@ -90,7 +91,7 @@ Please be sure to read the notes below about your role before you play your firs
 
 ### How to Be a Player <a name="player"></a>
 
-1. **Know what you want to learn.** It's good to have something in mind before the game starts. But be careful not to set your sights too high. Don't forget, you only need to learn *something* new before the end of the game to win!
+1. **Know what you want to learn.** It's good to have something in mind before the game starts. But be careful not to set your sights too high. Don't forget, you only need to learn *something* new before the end of the game to win! For more tips, see [Ideas For Your Next Turn](#ideas)
 
 2. **Don't be intimidated** when you see that other players are more advanced than you. Don't forget, when it's your turn you will be the one who sets the level, and everybody else will fit in with you.
 
@@ -130,7 +131,7 @@ It's great to have you on board! Without you the players would only have each ot
 
 1. **Don't worry about sharing too little. Worry about sharing too much.** The purpose of the game is to learn *something* new, not *everything*. If you share too much you can overwhelm the players and they won't have a good time.
 
-2. When it's a player's turn, **allow them to decide** how much they want to learn, and from who. They may decide to talk to another player who is on a level closer to them instead of you. Maybe this is because they feel nervous about talking to a proficient speaker like you, so resist the temptation to jump in.
+2. When it's a player's turn, **allow them to decide** how much they want to learn, and from who. Let the player decide if they want to be corrected, or if they just want to be understood. If you are unsure, first say "Well, I understand you." If they decide that that's enough for now, that's OK.
 
 3. When a player decides to talk to you, **let them take their time**. If they take time to search for a word, patiently let them search. Only finish their sentence for them if they ask you for help with their eyes.
 
@@ -140,5 +141,28 @@ It's great to have you on board! Without you the players would only have each ot
 
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
+### Ideas for Your Next Turn <a name="ideas"></a>
+
+On your next turn in the pomodoro as a player, try to learn at least one new thing. Don't try to learn too many things at the same time!
+
+But what should you try to learn next? It's really up to you. But if you need some inspiration, feel free to take a look at the suggestions below. (Codes are CEFR levels.)
+
+The important thing is to have something specific in mind that you want to learn, and to make sure the other player or helper understands what you're looking for.
+
+| Your language level | Suggestions |
+| --- | --- |
+| **If you know absolutely nothing...** | Make up a random word, like "wug." Say the name of a helper or another player. Then pick something up, point to it and say, "Wug?" The other person will tell you what the correct word is. |
+|  | Say the name of a helper or another player. Then mime an action, such as laying your head on your hand to sleep, or moving your arms as if you are walking. If your name is Joel, say "Joel wug?" The other person will tell you what the correct word is. |
+| **If you know some basic sentences...** (A1) | Think of something you don't know the word for. Say the name of a helper or another player. Then use the words you know to talk about the thing. Then ask, "What is this?" |
+| | Use a "fill in the blanks" technique: Say the name of a helper or another player. Then say a sentence, but leave a "blank" for the word that you want to learn. Make it obvious what the "blank" is. For example, you could say "This pen is for me. This pen is for ...?" while giving the pen to the other person. The other person will tell you what the word for it is. |
+| **If you can talk about what you did today...** (A2) | Say the name of a helper or another player. Then experiment with the sentences that you know. Then ask, "Is that right?" or "Did you understand?" |
+| | When you learn something new, and it's still your turn, immediately use it again but in a different sentence. Ask, "Is that right?" or "Did you understand?" |
+| **If you can survive in most daily situations...** (B1) | Talk about something you like until you get to something you can't say! Ask a helper, "How can I say this?" |
+| **If you can say almost anything you want to say...** (B2) | Think about the last situation where you struggled in the target language. Talk about it with a helper. Tell them what happened and what you struggled with. You might not get the answer you wanted, but you will still learn something new. |
+| **If almost everything you say is correct...** (C1) | Start a conversation with a helper. But make sure that you tell the helper what you need from them. Do you want them to correct your grammar, your accent, or both? Keep going until they correct you, then focus on what they corrected. |
+| | Talk to a helper about a subject that you don't know much about. Before long, you will learn something new: A new word, a new saying, a correct pronunciation, or a grammar point.  |
+
+<div style="text-align:right"><a href="#top">Table of Contents</a></div>
+
 -----
-Version 2.2 <br>(c) 2020 Joel Thomas
+Version 3.0 <br>(c) 2020 Joel Thomas
