@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;[How to Be a Moderator](#moderator)<br>
 &nbsp;&nbsp;&nbsp;[How to Be a Helper](#helper)<br>
 [Tips](#tips)<br>
-&nbsp;&nbsp;&nbsp;[Ideas for Your Next Turn](#ideas)
+&nbsp;&nbsp;&nbsp;[Ideas for Your Next Turn](#ideas)<br>
 &nbsp;&nbsp;&nbsp;[Communication Techniques](#techniques)
 
 | General Information | |
@@ -191,4 +191,4 @@ If the player doesn't know a word, maybe they know the opposite. If they don't k
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
 -----
-Version 4.0 <br>(c) 2020 Joel Thomas
+Version 4.1 <br>(c) 2020 Joel Thomas
