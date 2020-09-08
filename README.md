@@ -25,6 +25,10 @@
 
 The **players** are motivated language learners. Their goal is to learn something new in the target language: a new word, a new construction, or a new phrase. Everyone who learns at least one new thing wins the game!
 
+A **pomodoro** is a period of immersion. The most important rule of a pomodoro is this: **During a pomodoro, players can only speak in the target language.** Apart from this, there are no limitations on what players can do to make themselves understood. Hand signs, charades, and props are all allowed.
+
+There are regular **breaks** to give players an opportunity to ask questions in their own language.
+
 The **moderator** is the person who keeps the game going and enforces the rules. The goal of the moderator is to make sure that:
 
 - All players learn something new in the target language
@@ -35,10 +39,6 @@ The moderator can also be a player.
 It is good if some friends who speak the target language can be present as **helpers** to answer questions. The moderator can also be a helper. It's good to have helpers, but even without them the players can still learn something new from each other or from whatever books or apps they have available.
 
 See the [Guidance for Roles](#guidance) section for more information about how these roles interact.
-
-A **pomodoro** is a period of immersion. The most important rule of a pomodoro is this: **During a pomodoro, players can only speak in the target language.** Apart from this, there are no limitations on what players can do to make themselves understood. Hand signs, charades, and props are all allowed.
-
-There are regular **breaks** to give players an opportunity to ask questions in their own language.
 
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
@@ -193,4 +193,4 @@ It can also be good to use **comparisons**. For example, imagine that the player
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
 -----
-Version 4.4 <br>(c) 2020 Joel Thomas
+Version 4.5 <br>(c) 2020 Joel Thomas
