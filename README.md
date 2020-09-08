@@ -153,12 +153,12 @@ But what should you try to learn next? It's really up to you. But if you need so
 
 The important thing is to have something specific in mind that you want to learn, and to make sure the other player or helper understands what you're looking for.
 
-| Your language level | Suggestions |
+|  | Suggestions |
 | --- | --- |
 | **If you know absolutely nothing...** | Make up a random word, like "wug." Say the name of a helper or another player. Then pick something up, point to it and say, "Wug?" The other person will tell you what the correct word is. |
 |  | Say the name of a helper or another player. Then mime an action, such as laying your head on your hand to sleep, or moving your arms as if you are walking. If your name is Joel, say "Joel wug?" The other person will tell you what the correct word is. |
 | **If you know some basic sentences...** (A1) | Think of something you don't know the word for. Say the name of a helper or another player. Then use the words you know to talk about the thing. Then ask, "What is this?" |
-| | Use a "fill in the blanks" technique: Say the name of a helper or another player. Then say a sentence, but leave a "blank" for the word that you want to learn. Make it obvious what the "blank" is. For example, you could say "This pen is for me. This pen is for ...?" while giving the pen to the other person. The other person will tell you what the word for it is. |
+| | Use a "fill in the blanks" technique: Say the name of a helper or another player. Then say a sentence, but leave a "blank" for the word that you want to learn. Make it obvious what the "blank" is. For example, you could say "This pen is for me. This pen is for ...?" while giving the pen to the other person. The other person will tell you what the correct word is. |
 | **If you can talk about what you did today...** (A2) | Say the name of a helper or another player. Then experiment with the sentences that you know. Then ask, "Is that right?" or "Did you understand?" |
 | | When you learn something new, and it's still your turn, immediately use it again but in a different sentence. Ask, "Is that right?" or "Did you understand?" |
 | **If you can survive in most daily situations...** (B1) | Talk about something you like until you get to something you can't say! Ask a helper, "How can I say this?" |
@@ -193,4 +193,4 @@ It can also be good to use **comparisons**. For example, imagine that the player
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
 -----
-Version 4.5 <br>(c) 2020 Joel Thomas
+Version 4.6 <br>&#169; 2020 Joel Thomas
