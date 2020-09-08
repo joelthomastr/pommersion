@@ -168,27 +168,27 @@ The important thing is to have something specific in mind that you want to learn
 
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
-### Communication Techniques <a name="techniques"></a>
+## Communication Techniques <a name="techniques"></a>
 
 Whether you're a player or a helper, if the player doesn't know the word for something or an essential grammatical element, how can communication happen? By getting creative!
 
 Here are some ideas to get you started:
 
-## Clues
+### Clues
 
 Use a **prop**, or an object, to show what you mean. Use a common **hand sign**. Add emotion with your **facial expressions**.
 
 The **fill in the blanks** technique is an example of a clue, because the rest of the sentence is the clue to what the unknown word is, or what is means.
 
-## Examples
+### Examples
 
 To make it clear what a word means, or which word it is that you need, give more than one example. **Tell a story** to paint a picture of a situation where the word is used.  If necessary you can even act out the situation, like  **pantomime** or charades.
 
-## Contrasts
+### Contrasts
 
 If the player doesn't know a word, maybe they know the opposite. If they don't know the word "white", they can say "Milk isn't black, it's ...what?" The helper will know which word they need. Or, "This doesn't belong to me, it belongs to... who?" with a hand gesture.
 
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
 -----
-Version 4.1 <br>(c) 2020 Joel Thomas
+Version 4.2 <br>(c) 2020 Joel Thomas
