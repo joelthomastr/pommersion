@@ -11,11 +11,13 @@
 &nbsp;&nbsp;&nbsp;[How to Be a Player](#player)<br>
 &nbsp;&nbsp;&nbsp;[How to Be a Moderator](#moderator)<br>
 &nbsp;&nbsp;&nbsp;[How to Be a Helper](#helper)<br>
-&nbsp;&nbsp;&nbsp;[Ideas For Your Next Turn](#ideas)
+[Tips](#tips)<br>
+&nbsp;&nbsp;&nbsp;[Ideas for Your Next Turn](#ideas)
+&nbsp;&nbsp;&nbsp;[Communication Techniques](#techniques)
 
 | General Information | |
 | ----------------- | ---------- |
-| Game time         | 60 minutes |
+| Game time         | 55 minutes |
 | Number of players | 1-8 players<br>1 moderator<br>helpers (optional) |
 | Purpose | To learn something new in your target language! |
 
@@ -42,7 +44,7 @@ There are regular **breaks** to give players an opportunity to ask questions in 
 
 ## Gameplay <a name="gameplay"></a>
 
-A game of Pommersion lasts for 60 minutes:
+A game of Pommersion lasts for 55 minutes:
 
 * First pomodoro (10 minutes)
   * First break (5 minutes)
@@ -79,7 +81,7 @@ When adults learn a language, they often spend most of their time and energy on 
 
 But immersion is hard. Opportunities for immersion can be few and far between, and especially for English speakers there can be ways to avoid them.
 
-*Pommersion* is a portmonteau of *pomodoro* and *immersion*. It uses the essential elements of the pomodoro technique in a game that gives adult language learners what they need: stress-free time *in* the language, and time to talk *about* the language. It is designed to be playable over a videoconference call such as Zoom.
+*Pommersion* is a portmonteau of *pomodoro* and *immersion*. It uses the essential elements of the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) in a game that gives adult language learners what they need: stress-free time *in* the language, and time to talk *about* the language. It is designed to be playable over a videoconference call such as Zoom.
 
 The immediate inspiration was the [Viossa project](https://www.youtube.com/watch?v=F1LBCMWDNwo), a constructed pidgin that relies on absolute immersion. Other influences include the community language revitalization program [Where Are Your Keys?](https://whereareyourkeys.org/) and elicitation techniques such as those [demonstrated](https://www.youtube.com/watch?v=sYpWp7g7XWU) by field linguist Daniel Everett.
 
@@ -91,11 +93,11 @@ Please be sure to read the notes below about your role before you play your firs
 
 ### How to Be a Player <a name="player"></a>
 
-1. **Know what you want to learn.** It's good to have something in mind before the game starts. But be careful not to set your sights too high. Don't forget, you only need to learn *something* new before the end of the game to win! For more tips, see [Ideas For Your Next Turn](#ideas)
+1. **Know what you want to learn.** It's good to have something in mind before the game starts. But be careful not to set your sights too high. Don't forget, you only need to learn *something* new before the end of the game to win! For more tips, see [Ideas for Your Next Turn](#ideas)
 
 2. **Don't be intimidated** when you see that other players are more advanced than you. Don't forget, when it's your turn you will be the one who sets the level, and everybody else will fit in with you.
 
-3. **When your turn comes, get creative!** The rule of a pomodoro is that you aren't allowed to *speak* any language other than the target language. That doesn't mean you have to communicate using *only* the target language. You're free to use hand gestures, facial expressions, funny noises, pantomime, the objects around you, or any other trick you can think of so long as you don't *speak* any other *language*. Because you're still immersed! Use this freedom to the fullest to make yourself understood.
+3. **When your turn comes, get creative!** The rule of a pomodoro is that you aren't allowed to *speak* any language other than the target language. That doesn't mean you have to communicate using *only* the target language. You're free to use hand gestures, facial expressions, funny noises, pantomime, the objects around you, or any other trick you can think of so long as you don't *speak* any other *language*. Because you're still immersed! Use this freedom to the fullest to make yourself understood. For more, see [Communication Techniques](#communication).
 
 4. **Watch and learn.** You can pick up some new words and grammar as well as other cool communication techniques from the other players.
 
@@ -135,11 +137,13 @@ It's great to have you on board! Without you the players would only have each ot
 
 3. When a player decides to talk to you, **let them take their time**. If they take time to search for a word, patiently let them search. Only finish their sentence for them if they ask you for help with their eyes.
 
-4. **Stay at the player's level.** Do your best to understand the level of the player whose turn it is, and speak with them at that level. When you sense that something is new for them, just focus on helping them learn the new thing. Don't introduce another new thing until they tell you that they are ready.
+4. **Stay at the player's level.** Do your best to understand the level of the player whose turn it is, and speak with them at that level. When you sense that something is new for them, just focus on helping them learn the new thing. Use good [communication techniques](#communication) to make sure they understand. Don't introduce another new thing until they show you that they are ready.
 
 5. **Correct one thing at a time.** If you are sure that this is what the player wants, it's OK to correct their mistakes. But it's not necessary to correct all their mistakes, unless they ask you to. If you correct one thing, the player will remember it. If you correct too many, the player will remember nothing and won't have a good time.
 
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
+
+## Tips <a name="tips"></a>
 
 ### Ideas for Your Next Turn <a name="ideas"></a>
 
@@ -164,5 +168,27 @@ The important thing is to have something specific in mind that you want to learn
 
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
+### Communication Techniques <a name="techniques"></a>
+
+Whether you're a player or a helper, if the player doesn't know the word for something or an essential grammatical element, how can communication happen? By getting creative!
+
+Here are some ideas to get you started:
+
+## Clues
+
+Use a **prop**, or an object, to show what you mean. Use a common **hand sign**. Add emotion with your **facial expressions**.
+
+The **fill in the blanks** technique is an example of a clue, because the rest of the sentence is the clue to what the unknown word is, or what is means.
+
+## Examples
+
+To make it clear what a word means, or which word it is that you need, give more than one example. **Tell a story** to paint a picture of a situation where the word is used.  If necessary you can even act out the situation, like  **pantomime** or charades.
+
+## Contrasts
+
+If the player doesn't know a word, maybe they know the opposite. If they don't know the word "white", they can say "Milk isn't black, it's ...what?" The helper will know which word they need. Or, "This doesn't belong to me, it belongs to... who?" with a hand gesture.
+
+<div style="text-align:right"><a href="#top">Table of Contents</a></div>
+
 -----
-Version 3.0 <br>(c) 2020 Joel Thomas
+Version 4.0 <br>(c) 2020 Joel Thomas
