@@ -3,10 +3,10 @@
 *A game of language learning through immersion*
 
 [Overview](#overview)<br>
+[Backstory](#backstory)<br>
 [Gameplay](#gameplay)<br>
 &nbsp;&nbsp;&nbsp;[During a pomodoro](#pomodoro)<br>
 &nbsp;&nbsp;&nbsp;[During a break](#break)<br>
-[Backstory](#backstory)<br>
 [Guidance for Roles](#guidance)<br>
 &nbsp;&nbsp;&nbsp;[How to Be a Player](#player)<br>
 &nbsp;&nbsp;&nbsp;[How to Be a Moderator](#moderator)<br>
@@ -23,22 +23,31 @@
 
 ## Overview <a name="overview"></a>
 
-The **players** are motivated language learners. Their goal is to learn something new in the target language: a new word, a new construction, or a new phrase. Everyone who learns at least one new thing wins the game!
+The **players** are motivated language learners. Their goal is to learn [something new](#ideas) in the target language: a new word, a new construction, or a new phrase. Everyone who learns at least one new thing wins the game!
 
-A **pomodoro** is a period of immersion. The most important rule of a pomodoro is this: **During a pomodoro, players can only speak in the target language.** Apart from this, there are no limitations on what players can do to make themselves understood. Hand signs, charades, and props are all allowed.
+A **pomodoro** is a period of immersion. There are three pomodoros in a [game](#gameplay), with breaks in between.
 
-There are regular **breaks** to give players an opportunity to ask questions in their own language.
+The most important rule of a pomodoro is this: **During a pomodoro, players can only speak in the target language.** Apart from this, there are no limitations on what players can do to make themselves understood. Hand signs, charades, and props are all allowed.
 
-The **moderator** is the person who keeps the game going and enforces the rules. The goal of the moderator is to make sure that:
+There are regular **breaks** to give players an opportunity to ask questions in their own language about the target language, or to talk about their [communication techniques](#techniques).
 
-- All players learn something new in the target language
-- Everybody has a good time!
+The **moderator** is the person who keeps the game going and enforces the rules. The goal of the moderator is to make sure that all players learn something new in the target language, and everybody has a good time! The moderator can also be a player.
 
-The moderator can also be a player.
-
-It is good if some friends who speak the target language can be present as **helpers** to answer questions. The moderator can also be a helper. It's good to have helpers, but even without them the players can still learn something new from each other or from whatever books or apps they have available.
+It's good if some friends who speak the target language can be present as **helpers** to answer questions. The moderator can also be a helper. But it is possible to play Pommersion without helpers. The players can still learn new things from each other or from whatever books or apps they have available, and internalize them during the pomodoros.
 
 See the [Guidance for Roles](#guidance) section for more information about how these roles interact.
+
+<div style="text-align:right"><a href="#top">Table of Contents</a></div>
+
+## Backstory <a name="backstory"></a>
+
+When adults learn a language, they often spend most of their time and energy on learning *about* it. This doesn't work, because the key that unlocks the brain's language acquisition circuits is immersion, or meaningful and motivated communication in the target language.
+
+But immersion is hard. Opportunities for immersion can be few and far between, and especially for English speakers there can be ways to avoid them.
+
+*Pommersion* is a portmanteau of *pomodoro* and *immersion*. It uses the essential elements of the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) in a game that gives adult language learners what they need: stress-free time *in* the language, and time to talk *about* the language. It is designed to be playable over a videoconference call such as Zoom.
+
+The immediate inspiration was [Viossa](https://www.youtube.com/watch?v=F1LBCMWDNwo), a constructed pidgin that relies on absolute immersion. Other influences include the community language revitalization program [Where Are Your Keys?](https://whereareyourkeys.org/) and elicitation techniques such as those [demonstrated](https://www.youtube.com/watch?v=sYpWp7g7XWU) by field linguist Daniel Everett.
 
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
@@ -75,35 +84,23 @@ The moderator gives each player an opportunity to ask questions about the target
 
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
-## Backstory <a name="backstory"></a>
-
-When adults learn a language, they often spend most of their time and energy on learning *about* it. This doesn't work, because the key that unlocks the brain's language acquisition circuits is immersion, or meaningful and motivated communication in the target language.
-
-But immersion is hard. Opportunities for immersion can be few and far between, and especially for English speakers there can be ways to avoid them.
-
-*Pommersion* is a portmonteau of *pomodoro* and *immersion*. It uses the essential elements of the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) in a game that gives adult language learners what they need: stress-free time *in* the language, and time to talk *about* the language. It is designed to be playable over a videoconference call such as Zoom.
-
-The immediate inspiration was the [Viossa project](https://www.youtube.com/watch?v=F1LBCMWDNwo), a constructed pidgin that relies on absolute immersion. Other influences include the community language revitalization program [Where Are Your Keys?](https://whereareyourkeys.org/) and elicitation techniques such as those [demonstrated](https://www.youtube.com/watch?v=sYpWp7g7XWU) by field linguist Daniel Everett.
-
-<div style="text-align:right"><a href="#top">Table of Contents</a></div>
-
 ## Guidance for Roles <a name="guidance"></a>
 
 Please be sure to read the notes below about your role before you play your first game of Pommersion.
 
 ### How to Be a Player <a name="player"></a>
 
-1. **Know what you want to learn.** It's good to have something in mind before the game starts. But be careful not to set your sights too high. Don't forget, you only need to learn *something* new before the end of the game to win! For more tips, see [Ideas for Your Next Turn](#ideas)
+1. **Know what you want to learn.** It's good to have something in mind before the game starts. But be careful not to set your sights too high. Don't forget, you only need to learn *something* new before the end of the game to win! For some tips, see [Ideas for Your Next Turn](#ideas)
 
 2. **Don't be intimidated** when you see that other players are more advanced than you. Don't forget, when it's your turn you will be the one who sets the level, and everybody else will fit in with you.
 
-3. **When your turn comes, get creative!** The rule of a pomodoro is that you aren't allowed to *speak* any language other than the target language. That doesn't mean you have to communicate using *only* the target language. You're free to use hand gestures, facial expressions, funny noises, pantomime, the objects around you, or any other trick you can think of so long as you don't *speak* any other *language*. Because you're still immersed! Use this freedom to the fullest to make yourself understood. For more, see [Communication Techniques](#communication).
+3. **When your turn comes, get creative!** The rule of a pomodoro is that you aren't allowed to *speak* any language other than the target language. That doesn't mean you have to communicate using *only* the target language. You're free to use hand gestures, facial expressions, funny noises, pantomime, the objects around you, or any other trick you can think of so long as you don't *speak* any other *language*. Because you're still immersed! Use this freedom to the fullest to make yourself understood. For more ideas about how to do this, see [Communication Techniques](#communication).
 
 4. **Watch and learn.** You can pick up some new words and grammar as well as other cool communication techniques from the other players.
 
 5. **No pressure.** Don't feel shy. But if you do, feel free to pass when it's your turn. You can still learn new things when it's not your turn, either during the pomodoros or the breaks.
 
-6. **Make the most of the breaks** to ask questions in your own language. Once the pomodoro is over, you can ask anything you like about what just happened.
+6. **Make the most of the breaks** to ask questions in your own language. You can ask anything you like about what just happened in the last pomodoro. Ask for simple words or phrases in the target language that will help you during pomodoros, such as "Correct?", "Did you understand?", "How can I say...?" You can also agree on hand signs to use as signals.
 
 If you are a more advanced player, sometimes you can also be a helper. But please make sure you read through the guidance for helpers before you jump in.
 
@@ -176,13 +173,13 @@ Here are some ideas to get you started:
 
 #### Clues
 
-Use a **prop**, or an object, to show what you mean. Use a common **hand sign**. Add emotion with your **facial expressions**.
+Add emotion with your **facial expressions**. Use a **hand sign** that is well-known or that you have agreed upon. Use a **prop**, or an object, to show what you mean. Search on the Internet for a **picture** and show it to the other person on your device.
 
-The **fill in the blanks** technique is an example of a clue, because the rest of the sentence is the clue to what the unknown word is, or what it means.
+Provide or invent **context** to make it clear what word you're searching for, or what an new word means. The "fill in the blanks" technique is an example of this.
 
 #### Examples
 
-To make it clear what a word means, or which word it is that you need, give more than one example. **Tell a story** to paint a picture of a situation where the word is used.  You can even act out the situation, like  **pantomime** or charades.
+To make it clear what a word means, or which word it is that you need, give more than one example. **Tell stories** to paint a picture of the different situations where the word is used.  You can even act out the situation, like  **pantomime** or charades.
 
 #### Contrasts
 
@@ -193,4 +190,4 @@ It can also be good to use **comparisons**. For example, imagine that the player
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
 -----
-Version 4.6 <br>&#169; 2020 Joel Thomas
+Version 4.7 <br>&#169; 2020 Joel Thomas<br>[Feedback](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
