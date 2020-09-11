@@ -7,10 +7,10 @@
 [Gameplay](#gameplay)<br>
 &nbsp;&nbsp;&nbsp;[During a pomodoro](#pomodoro)<br>
 &nbsp;&nbsp;&nbsp;[During a break](#break)<br>
-[Guidance for Roles](#guidance)<br>
-&nbsp;&nbsp;&nbsp;[How to Be a Player](#player)<br>
-&nbsp;&nbsp;&nbsp;[How to Be a Moderator](#moderator)<br>
-&nbsp;&nbsp;&nbsp;[How to Be a Helper](#helper)<br>
+[Guidance Notes](#guidance)<br>
+&nbsp;&nbsp;&nbsp;[The Player Role](#player)<br>
+&nbsp;&nbsp;&nbsp;[The Moderator Role](#moderator)<br>
+&nbsp;&nbsp;&nbsp;[The Helper Role](#helper)<br>
 [Tips](#tips)<br>
 &nbsp;&nbsp;&nbsp;[Ideas for Your Next Turn](#ideas)<br>
 &nbsp;&nbsp;&nbsp;[Communication Techniques](#techniques)
@@ -35,7 +35,7 @@ The **moderator** is the person who keeps the game going and enforces the rules.
 
 It's good if some friends who speak the target language can be present as **helpers** to answer questions. The moderator can also be a helper. But it is possible to play Pommersion without helpers. The players can still learn new things from each other or from whatever books or apps they have available, and internalize them during the pomodoros.
 
-See the [Guidance for Roles](#guidance) section for more information about how these roles interact.
+See the [Guidance Notes](#guidance) section for more information about how these roles interact.
 
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
@@ -84,11 +84,11 @@ The moderator gives each player an opportunity to ask questions about the target
 
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
-## Guidance for Roles <a name="guidance"></a>
+## Guidance Notes <a name="guidance"></a>
 
 Please be sure to read the notes below about your role before you play your first game of Pommersion.
 
-### How to Be a Player <a name="player"></a>
+### The Player Role <a name="player"></a>
 
 1. **Know what you want to learn.** It's good to have something in mind before the game starts. But be careful not to set your sights too high. Don't forget, you only need to learn *something* new before the end of the game to win! For some tips, see [Ideas for Your Next Turn](#ideas)
 
@@ -106,7 +106,7 @@ If you are a more advanced player, sometimes you can also be a helper. But pleas
 
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
-### How to Be a Moderator <a name="moderator"></a>
+### The Moderator Role <a name="moderator"></a>
 
 Your main job is to make sure that *everybody* has a *good* time.
 
@@ -124,7 +124,7 @@ If you are a player, give yourself a turn. If you are a helper, all the guidance
 
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
-### How to Be a Helper <a name="helper"></a>
+### The Helper Role <a name="helper"></a>
 
 It's great to have you on board! Without you the players would only have each other, so thanks for being here. But with great power comes great responsibility. You have the power to make or break the game.
 
@@ -190,4 +190,4 @@ It can also be good to use **comparisons**. For example, imagine that the player
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
 -----
-Version 4.7 <br>&#169; 2020 Joel Thomas<br>[Feedback](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
+Version 4.8 <br>&#169; 2020 Joel Thomas<br>[Feedback](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
