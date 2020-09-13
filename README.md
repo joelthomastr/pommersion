@@ -2,6 +2,8 @@
 
 *A game of language learning through immersion*
 
+EN | [TR](https://joelthomastr.github.io/pommersion/tr)
+
 [Overview](#overview)<br>
 [Backstory](#backstory)<br>
 [Gameplay](#gameplay)<br>
@@ -192,4 +194,4 @@ It can also be good to use **comparisons**. For example, imagine that the player
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
 -----
-Version 4.9 <br>&#169; 2020 Joel Thomas<br>[Feedback](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
+Version 4.10 <br>&#169; 2020 Joel Thomas<br>[Feedback](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
