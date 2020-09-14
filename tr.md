@@ -134,9 +134,9 @@ Oyuncuysanız kendinize de sıra verin. Yardımcıysanız, yardımcılar için o
 
 2. Oyuncunun sırası gelince, her şeye **o karar versin**. Az ya da çok şey öğrenmek isteyebilir, sizden ya da başka birinden öğrenmek isteyebilir. Tüm yanlışlarının düzeltilmesini mi yoksa şimdilik sadece anlaşılmak mı istediğini anlamaya çalışın. Bu konuda emin değilseniz, "Yani... anlıyorum" diyebilirsiniz. Şimdilik bu ona yetiyorsa başka bir şey gerekmez.
 
-3. Bir oyuncu sizinle yavaş konuşursa **zaman almasına izin verin**. Doğru kelimeyi araması gerekirse, bırakın arasın. Ancak gözünüz içine bakarak doğru kelimeyi ona vermenizi istediğini belli ederse cümlesini tamamlayın.
+3. Bir oyuncu sizinle yavaş konuşursa **ona bolca zaman tanıyın**. Doğru kelimeyi araması gerekirse, bırakın arasın. Ancak gözünüz içine bakarak doğru kelimeyi ona vermenizi istediğini belli ederse cümlesini tamamlayın.
 
-4. **Oyuncunun dil seviyesinde kalın.** Sırası olan oyuncunun hangi seviyede olduğunu anlamaya çalışın ve onunla o seviyede konuşun. Bir şeyin onun için yeni olduğunu anlarsanız o yeni şeyi iyice öğrenmesine odaklanın. İyi [iletişim yöntemleri](#communication) kullanarak yeni şeyi anladıklarından emin olun. Hazır olduğunu gösterene kadar yeni bir bilgi vermeyin.
+4. **Oyuncunun dil seviyesinde kalın.** Sırası olan oyuncunun hangi seviyede olduğunu anlamaya çalışın ve onunla o seviyede konuşun. Bir şeyin onun için yeni olduğunu anlarsanız o yeni şeyi iyice öğrenmesine odaklanın. İyi [iletişim yöntemleri](#communication) kullanarak yeni şeyi anladığından emin olun. Hazır olduğunu gösterene kadar yeni bir bilgi vermeyin.
 
 5. **Tek seferde sadece bir şey düzeltin.** Oyuncunun bunu istediğine eminseniz hatalarını düzeltebilirsiniz. Ama o sizden istemedikçe tüm hatalarını düzeltmeniz gerekmez. Bir şey düzeltirseniz hatırlayacak. Fazla şey düzeltirseniz hiçbirini hatırlamayacak ve onun için eğlenceli olmayacak.
 
@@ -194,4 +194,4 @@ Oyuncu bir kelimeyi bilmiyorsa belki de **tersini** biliyordur. Örneğin "beyaz
 <div style="text-align:right"><a href="#top">İçindekiler</a></div>
 
 -----
-Versiyon 4.10 (1) <br>&#169; 2020 Joel Thomas<br>[Yorumlarınız](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
+Versiyon 4.10 (2) <br>&#169; 2020 Joel Thomas<br>[Yorumlarınız](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
