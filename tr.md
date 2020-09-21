@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;[Yardımcılar İçin](#helper)<br>
 [Tüyolar](#tips)<br>
 &nbsp;&nbsp;&nbsp;[Bir Dahaki Sıranız İçin Öneriler](#ideas)<br>
-&nbsp;&nbsp;&nbsp;[İletişim Yöntemleri](#techniques)
+&nbsp;&nbsp;&nbsp;[İletişim Yöntemleri](#techniques)<br>
 &nbsp;&nbsp;&nbsp;[Sohbet Başlatmak İçin Fikirler](#starters)
 
 | Genel Bilgiler | |
@@ -211,4 +211,4 @@ Bir oyuncu sırası gelince ne diyeceğini bilemiyorsa, moderatör ya da bir yar
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
 -----
-Versiyon 5.0 (0) <br>&#169; 2020 Joel Thomas<br>[Yorumlarınız](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
+Versiyon 5.1 (0) <br>&#169; 2020 Joel Thomas<br>[Yorumlarınız](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)

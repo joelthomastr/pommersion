@@ -15,7 +15,7 @@ EN | [TR](https://joelthomastr.github.io/pommersion/tr)
 &nbsp;&nbsp;&nbsp;[The Helper Role](#helper)<br>
 [Tips](#tips)<br>
 &nbsp;&nbsp;&nbsp;[Ideas for Your Next Turn](#ideas)<br>
-&nbsp;&nbsp;&nbsp;[Communication Techniques](#techniques)
+&nbsp;&nbsp;&nbsp;[Communication Techniques](#techniques)<br>
 &nbsp;&nbsp;&nbsp;[Conversation Starters](#starters)
 
 | General Information | |
@@ -211,4 +211,4 @@ If a player is unsure about what to say on their turn, a moderator or a helper c
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
 -----
-Version 5.0 <br>&#169; 2020 Joel Thomas<br>[Feedback](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
+Version 5.1 <br>&#169; 2020 Joel Thomas<br>[Feedback](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
