@@ -211,4 +211,5 @@ If a player is unsure about what to say on their turn, a moderator or a helper c
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
 -----
-Version 5.1 <br>&#169; 2020 Joel Thomas<br>[Feedback](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
+Version 5.2 <br>&#169; 2020 Joel Thomas<br>[Feedback](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)<br>
+[Download PDF](/Pommersion_v5.1_EN.pdf)
