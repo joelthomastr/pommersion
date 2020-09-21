@@ -16,6 +16,7 @@
 [Tüyolar](#tips)<br>
 &nbsp;&nbsp;&nbsp;[Bir Dahaki Sıranız İçin Öneriler](#ideas)<br>
 &nbsp;&nbsp;&nbsp;[İletişim Yöntemleri](#techniques)
+&nbsp;&nbsp;&nbsp;[Sohbet Başlatmak İçin Fikirler](#starters)
 
 | Genel Bilgiler | |
 | ----------------- | ---------- |
@@ -33,7 +34,7 @@ Pomodoronun en önemli kuralı şu: **Pomodoro sırasında hedef dilin dışınd
 
 Sık sık **mola** verilir, bu sayede oyuncular hedef dil hakkında kendi dilinde soru sorabilir. Ayrıca pomodoro sırasında kullanacakları [iletişim yöntemleri](#techniques) hakkında da konuşabilirler.
 
-**Moderatör**, oyunun devam etmesini ve kuralların uygulanmasını sağlar. Moderatörün hedefi, tüm oyuncuların hedef dilde yeni bir şey öğrenmesini ve eğlenceli bir zaman geçirmesini sağlamak. Moderatör aynı zamanda oyunculardan biri olabilir.
+**Moderatör**, oyunun [devam etmesini](#starters) ve kuralların uygulanmasını sağlar. Moderatörün hedefi, tüm oyuncuların hedef dilde yeni bir şey öğrenmesini ve eğlenceli bir zaman geçirmesini sağlamak. Moderatör aynı zamanda oyunculardan biri olabilir.
 
 Hedef dili bilen bazı arkadaşlar oyuncuların sorularını cevaplamak için **yardımcı** olarak hazır bulunurlarsa iyi olur. Moderatör aynı zamanda yardımcılık yapabilir. Ama yardımcı olmadan da Pommersion oynamak mümkün. Oyuncular birbirinden, kitaplardan ya da uygulamalardan da yeni şeyler öğrenebilir ve pomodoro sırasında bunları içselleştirebilir.
 
@@ -112,7 +113,7 @@ Dilde biraz ilerleyen bir oyuncuysanız yardımcılık da yapabilirsiniz. Ama he
 
 Temel işleviniz, *tüm* oyuncuların *eğlenceli* bir zaman geçirmesini sağlamak.
 
-1. **Tüm oyuncuların dahil edildiğini hissetmesini** ve oyun sonuna kadar yeni bir şey öğrenmesini sağlayın. Özellikle çekingen olanlara destek olmanız gerekir.
+1. **Tüm oyuncuların dahil edildiğini hissetmesini** ve oyun sonuna kadar yeni bir şey öğrenmesini sağlayın. Özellikle çekingen olanlara destek olmanız gerekir. Takılıp kalırlarsa sohbeti yeniden başlatmak için [bir konu açabilirsiniz](#starters).
 
 2. **Kimsenin kendini baskı altında hissetmemesini sağlayın.** Tüm oyuncuların sıra aldığından emin olun, ama bir oyuncu pas geçmek ya da sırasını erken bitirmek isterse buna saygı duyun.
 
@@ -134,7 +135,7 @@ Oyuncuysanız kendinize de sıra verin. Yardımcıysanız, yardımcılar için o
 
 2. Oyuncunun sırası gelince, her şeye **o karar versin**. Az ya da çok şey öğrenmek isteyebilir, sizden ya da başka birinden öğrenmek isteyebilir. Tüm yanlışlarının düzeltilmesini mi yoksa şimdilik sadece anlaşılmak mı istediğini anlamaya çalışın. Bu konuda emin değilseniz, "Yani... anlıyorum" diyebilirsiniz. Şimdilik bu ona yetiyorsa başka bir şey gerekmez.
 
-3. Bir oyuncu sizinle yavaş konuşursa **ona bolca zaman tanıyın**. Doğru kelimeyi araması gerekirse, bırakın arasın. Ancak gözünüz içine bakarak doğru kelimeyi ona vermenizi istediğini belli ederse cümlesini tamamlayın.
+3. Bir oyuncu sizinle yavaş konuşursa **ona bolca zaman tanıyın**. Doğru kelimeyi araması gerekirse, bırakın arasın. Ancak gözünüz içine bakarak doğru kelimeyi ona vermenizi istediğini belli ederse cümlesini tamamlayın. Gerçekten ne diyeceklerini bilmiyorlarsa [başka bir konu açmayı deneyebilirsiniz](#starters).
 
 4. **Oyuncunun dil seviyesinde kalın.** Sırası olan oyuncunun hangi seviyede olduğunu anlamaya çalışın ve onunla o seviyede konuşun. Bir şeyin onun için yeni olduğunu anlarsanız o yeni şeyi iyice öğrenmesine odaklanın. İyi [iletişim yöntemleri](#communication) kullanarak yeni şeyi anladığından emin olun. Hazır olduğunu gösterene kadar yeni bir bilgi vermeyin.
 
@@ -150,7 +151,7 @@ Pomodorodaki bir sonraki sıranızda en az bir yeni şey öğrenmeye çalışın
 
 Peki acaba nereden başlamalı? Bu tamamen size bağlı. Ama ilham arıyorsanız aşağıdaki önerilere bakabilirsiniz. (CEFR seviyelerinin kodları eklenmiştir.)
 
-Önemli olan, aklınızda öğrenmek istediğiniz şeyin net olması ve diğer oyuncunun ya da yardımcının neyi aradığınızı anlaması.
+Önemli olan, aklınızda öğrenmek istediğiniz şeyin net olması ve diğer oyuncunun ya da yardımcının neyi aradığınızı anlaması. Bunun için farklı [iletişim yöntemleri](#techniques) deneyebilirsiniz.
 
 |  | Öneri |
 | --- | --- |
@@ -158,7 +159,7 @@ Peki acaba nereden başlamalı? Bu tamamen size bağlı. Ama ilham arıyorsanız
 |  | Bir yardımcının ya da oyuncunun adını söyleyin. Ardından bir hareketi canlandırın, mesela başınızı elinizin tersine yaslayın ya da yürürmüşçesine kollarınızı ileri geri hareket ettirin. Adınız Can ise, "Can muki?" deyin. Diğer kişi doğru kelimeyi verecektir. |
 | **Bazı temel cümleleri biliyorsanız...** (A1) | Doğru kelimeyi bilmediğiniz bir şey düşünün. Bir yardımcının ya da oyuncunun adını söyleyin. Ardından bildiğiniz kelimeleri kullanarak o şeyi anlatın. En son "Bu nedir?" diye sorun. |
 | | "Boşlukları doldurma" tekniği şöyle kullanın: Bir yardımcının ya da oyuncunun adını söyleyin. Ardından bir cümle söyleyin ama öğrenmek istediğiniz kelimenin yerine "boşluk" bırakın. Örneğin, "Bu kalem benim" dedikten sonra ikinci bir kalemi diğer kişiye uzatırken "Bu kalem...?" diyebilirsiniz. Diğer kişi doğru "senin" kelmesini verecektir. |
-| **Bugün neler yaptığınızı anlatabiliyorsanız...** (A2) | Bir yardımcının ya da oyuncunun adını söyleyin. Bildiğiniz cümlelerle yeni bir şey söylemeyi deneyin, ardından "Doğru mu?" veya "Anladın mı?" deyin. |
+| **Bugün neler yaptığınızı anlatabiliyorsanız...** (A2) | Bir yardımcının ya da oyuncunun adını söyleyin. Bildiğiniz cümlelerle yeni bir şey söylemeyi deneyin. Dilerseniz kısa bir hikaye anlatabilirsiniz. Ardından "Doğru mu?" veya "Anladın mı?" deyin. |
 | | Yeni bir şey öğrendiğinizde sıranız bitmemişse, hemen farklı bir cümlede kullanmayı deneyin. Ardından "Doğru mu?" veya "Anladın mı?" deyin. |
 | **Günlük hayattaki çoğu durumu idare edebiliyorsanız...** (B1) | Sevdiğiniz bir konuda konuşun. Söyleyemediğiniz bir şeye gelince bir yardımcıya "Bunu nasıl diyebilirim?" deyin. |
 | **Çoğu düşüncenizi ifade edebiliyorsanız...** (B2) | Hedef dilde en son ne zaman zorlandığınızı düşünün ve bir yardımcıya anlatın. Neler olduğunu ve hangi noktada zorlandığınızı açıklayın. Aradığınızı bulamasanız da mutlaka yeni bir şey öğreneceksiniz. |
@@ -193,5 +194,21 @@ Oyuncu bir kelimeyi bilmiyorsa belki de **tersini** biliyordur. Örneğin "beyaz
 
 <div style="text-align:right"><a href="#top">İçindekiler</a></div>
 
+### Sohbet Başlatmak İçin Fikirler <a name="starters"></a>
+
+Bir oyuncu sırası gelince ne diyeceğini bilemiyorsa, moderatör ya da bir yardımcı aşağıda önerilen konulardan birini açarak konuşmalarını sağlamaya çalışabilir:
+
+- Nasılsın?
+- Bugünün nasıl geçti? Neler yaptın?
+- Nerede oturuyorsun? Orası güzel bir yer mi?
+- Oturduğun sokakta kaç ev var?
+- Bu dili ne zaman öğrenmeye başladın?
+- Farklı yemekleri sever misin? En sevdiğin yemek hangisi?
+- İş için ne yapıyorsun?
+- Farklı yerleri gezmeyi sever misin? Nerelere gitmeyi seversin?
+- Kitap okumayı ya da film izlemeyi sever misin? Hangi kitapları ya da filmleri seversin?
+
+<div style="text-align:right"><a href="#top">Table of Contents</a></div>
+
 -----
-Versiyon 4.10 (2) <br>&#169; 2020 Joel Thomas<br>[Yorumlarınız](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
+Versiyon 5.0 (0) <br>&#169; 2020 Joel Thomas<br>[Yorumlarınız](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)

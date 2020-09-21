@@ -16,6 +16,7 @@ EN | [TR](https://joelthomastr.github.io/pommersion/tr)
 [Tips](#tips)<br>
 &nbsp;&nbsp;&nbsp;[Ideas for Your Next Turn](#ideas)<br>
 &nbsp;&nbsp;&nbsp;[Communication Techniques](#techniques)
+&nbsp;&nbsp;&nbsp;[Conversation Starters](#starters)
 
 | General Information | |
 | ----------------- | ---------- |
@@ -33,7 +34,7 @@ The most important rule of a pomodoro is this: **During a pomodoro, players can 
 
 There are regular **breaks** to give players an opportunity to ask questions in their own language about the target language, or to talk about their [communication techniques](#techniques).
 
-The **moderator** is the person who keeps the game going and enforces the rules. The goal of the moderator is to make sure that all players learn something new in the target language, and everybody has a good time! The moderator can also be a player.
+The **moderator** is the person who [keeps the game going](#starters) and enforces the rules. The goal of the moderator is to make sure that all players learn something new in the target language, and everybody has a good time! The moderator can also be a player.
 
 It's good if some friends who speak the target language can be present as **helpers** to answer questions. The moderator can also be a helper. But it is possible to play Pommersion without helpers. The players can still learn new things from each other or from whatever books or apps they have available, and internalize them during the pomodoros.
 
@@ -112,7 +113,7 @@ If you are a more advanced player, sometimes you can also be a helper. But pleas
 
 Your main job is to make sure that *everybody* has a *good* time.
 
-1. **Make sure that all the players feel included**, and that they feel that they learned something by the end of the game. This means that you particularly need to look after the shy ones.
+1. **Make sure that all the players feel included**, and that they feel that they learned something by the end of the game. This means that you particularly need to look after the shy ones. If they get stuck, try a [conversation starter](#starters).
 
 2. **Make sure that none of the players feel pressured.** Make sure that all players get a turn, but if a player decides to pass or end their turn early, respect that.
 
@@ -134,7 +135,7 @@ It's great to have you on board! Without you the players would only have each ot
 
 2. When it's a player's turn, **allow them to decide** how much they want to learn, and from who. Let the player decide if they want to be corrected, or if they just want to be understood. If you are unsure, first say "Well, I understand you." If they decide that that's enough for now, that's OK.
 
-3. When a player decides to talk to you, **let them take their time**. If they take time to search for a word, patiently let them search. Only finish their sentence for them if they ask you for help with their eyes.
+3. When a player decides to talk to you, **let them take their time**. If they take time to search for a word, patiently let them search. Only finish their sentence for them if they ask you for help with their eyes. If they get really stuck, you can try a [conversation starter](#starters)
 
 4. **Stay at the player's level.** Do your best to understand the level of the player whose turn it is, and speak with them at that level. When you sense that something is new for them, just focus on helping them learn the new thing. Use good [communication techniques](#communication) to make sure they understand. Don't introduce another new thing until they show you that they are ready.
 
@@ -150,7 +151,7 @@ On your next turn in the pomodoro as a player, try to learn at least one new thi
 
 But what should you try to learn next? It's really up to you. But if you need some inspiration, feel free to take a look at the suggestions below. (Codes are CEFR levels.)
 
-The important thing is to have something specific in mind that you want to learn, and to make sure the other player or helper understands what you're looking for.
+The important thing is to have something specific in mind that you want to learn, and to use good [communication techniques](#techniques) to make sure the other player or helper understands what you're looking for.
 
 |  | Suggestions |
 | --- | --- |
@@ -158,7 +159,7 @@ The important thing is to have something specific in mind that you want to learn
 |  | Say the name of a helper or another player. Then mime an action, such as laying your head on your hand to sleep, or moving your arms as if you are walking. If your name is Joel, say "Joel wug?" The other person will tell you what the correct word is. |
 | **If you know some basic sentences...** (A1) | Think of something you don't know the word for. Say the name of a helper or another player. Then use the words you know to talk about the thing. Then ask, "What is this?" |
 | | Use a "fill in the blanks" technique: Say the name of a helper or another player. Then say a sentence, but leave a "blank" for the word that you want to learn. Make it obvious what the "blank" is. For example, you could say "This pen is for me. This pen is for ...?" while giving the pen to the other person. The other person will tell you what the correct word is. |
-| **If you can talk about what you did today...** (A2) | Say the name of a helper or another player. Then experiment with the sentences that you know. Then ask, "Is that right?" or "Did you understand?" |
+| **If you can talk about what you did today...** (A2) | Say the name of a helper or another player. Then experiment with the sentences that you know. You can tell a short story if you like. Then ask, "Is that right?" or "Did you understand?" |
 | | When you learn something new, and it's still your turn, immediately use it again but in a different sentence. Ask, "Is that right?" or "Did you understand?" |
 | **If you can survive in most daily situations...** (B1) | Talk about something you like until you get to something you can't say! Ask a helper, "How can I say this?" |
 | **If you can say almost anything you want to say...** (B2) | Think about the last situation where you struggled in the target language. Talk about it with a helper. Tell them what happened and what you struggled with. You might not get the answer you wanted, but you will still learn something new. |
@@ -193,5 +194,21 @@ It can also be good to use **comparisons**. For example, imagine that the player
 
 <div style="text-align:right"><a href="#top">Table of Contents</a></div>
 
+### Conversation Starters <a name="starters"></a>
+
+If a player is unsure about what to say on their turn, a moderator or a helper can try one of these suggestions to help them get started:
+
+- How are you?
+- Did you have a good day today? What did you do?
+- Where do you live? Is it a nice place?
+- How many houses are on your street?
+- When did you start to learn this language?
+- Do you like different foods? What is your favourite food?
+- What do you do for work?
+- Do you like to travel to different places? Where do you like to go?
+- Do you like books or movies? Which books or movies do you like?
+
+<div style="text-align:right"><a href="#top">Table of Contents</a></div>
+
 -----
-Version 4.10 <br>&#169; 2020 Joel Thomas<br>[Feedback](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
+Version 5.0 <br>&#169; 2020 Joel Thomas<br>[Feedback](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
