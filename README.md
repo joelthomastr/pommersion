@@ -2,7 +2,7 @@
 
 *A game of language learning through immersion*
 
-EN | [TR](https://joelthomastr.github.io/pommersion/tr)
+EN | [KA](https://joelthomastr.github.io/pommersion/ka) | [TR](https://joelthomastr.github.io/pommersion/tr)
 
 [Overview](#overview)<br>
 [Backstory](#backstory)<br>
@@ -117,11 +117,11 @@ Your main job is to make sure that *everybody* has a *good* time.
 
 2. **Make sure that none of the players feel pressured.** Make sure that all players get a turn, but if a player decides to pass or end their turn early, respect that.
 
-2. **The player whose turn it is sets the language level.** Without meaning to, more advanced players and helpers can jump in and take over. If necessary, kindly take back control and give it back to the player whose turn it is.
+3. **The player whose turn it is sets the language level.** Without meaning to, more advanced players and helpers can jump in and take over. If necessary, kindly take back control and give it back to the player whose turn it is.
 
-3. **Keep the game moving.** The more confident players can eat up all the time if you let them. If you realize that a player is taking too long and there won't be enough time left for the others, kindly end their turn.
+4. **Keep the game moving.** The more confident players can eat up all the time if you let them. If you realize that a player is taking too long and there won't be enough time left for the others, kindly end their turn.
 
-4. **Stick to the time limits.** Remind people to stay in the target language during pomodoros.
+5. **Stick to the time limits.** Remind people to stay in the target language during pomodoros.
 
 If you are a player, give yourself a turn. If you are a helper, all the guidance for helpers also applies to you.
 

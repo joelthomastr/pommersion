@@ -2,7 +2,7 @@
 
 *Dilin içinde kalarak dil öğrenme oyunu*
 
-[EN](https://joelthomastr.github.io/pommersion/) | TR
+[EN](https://joelthomastr.github.io/pommersion/) | [KA](https://joelthomastr.github.io/pommersion/ka) | TR
 
 [Genel Bakış](#overview)<br>
 [Arka Plan](#backstory)<br>
@@ -117,11 +117,11 @@ Temel işleviniz, *tüm* oyuncuların *eğlenceli* bir zaman geçirmesini sağla
 
 2. **Kimsenin kendini baskı altında hissetmemesini sağlayın.** Tüm oyuncuların sıra aldığından emin olun, ama bir oyuncu pas geçmek ya da sırasını erken bitirmek isterse buna saygı duyun.
 
-2. **Sıra kimdeyse, dilin seviyesini o belirler.** Dili iyi bilen oyuncular ve yardımcılar istemeden de olsa atlayıp sohbete hâkim olabilir. Gerekirse nazikçe müdahale edip kontrolü sırası olan oyuncuya geri verin.
+3. **Sıra kimdeyse, dilin seviyesini o belirler.** Dili iyi bilen oyuncular ve yardımcılar istemeden de olsa atlayıp sohbete hâkim olabilir. Gerekirse nazikçe müdahale edip kontrolü sırası olan oyuncuya geri verin.
 
-3. **Oyunun devam etmesini sağlayın.** Bırakırsanız özgüveni yüksek olan oyuncular tüm zamanı kullanabilir. Bir oyuncunun çok zaman aldığını ve diğer oyunculara zaman kalmayacağını görüseniz, sırasını nazikçe sonlandırın.
+4. **Oyunun devam etmesini sağlayın.** Bırakırsanız özgüveni yüksek olan oyuncular tüm zamanı kullanabilir. Bir oyuncunun çok zaman aldığını ve diğer oyunculara zaman kalmayacağını görüseniz, sırasını nazikçe sonlandırın.
 
-4. **Saate bağlı kalın.** Herkese pomodoro sırasında hedef dilin içinde kalması gerektiğini hatırlatın.
+5. **Saate bağlı kalın.** Herkese pomodoro sırasında hedef dilin içinde kalması gerektiğini hatırlatın.
 
 Oyuncuysanız kendinize de sıra verin. Yardımcıysanız, yardımcılar için olan notlar sizin için de geçerli.
 
@@ -208,7 +208,7 @@ Bir oyuncu sırası gelince ne diyeceğini bilemiyorsa, moderatör ya da bir yar
 - Farklı yerleri gezmeyi sever misin? Nerelere gitmeyi seversin?
 - Kitap okumayı ya da film izlemeyi sever misin? Hangi kitapları ya da filmleri seversin?
 
-<div style="text-align:right"><a href="#top">Table of Contents</a></div>
+<div style="text-align:right"><a href="#top">İçindekiler</a></div>
 
 -----
-Versiyon 5.1 (0) <br>&#169; 2020 Joel Thomas<br>[Yorumlarınız](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
+Versiyon 5.2 (0) <br>&#169; 2020 Joel Thomas<br>[Yorumlarınız](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
