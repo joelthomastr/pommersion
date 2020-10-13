@@ -1,6 +1,6 @@
 # პომერსია <a name="top"></a>
 
-უცხო ენის შესწავლა - თამაში
+*უცხო ენის შესწავლა - თამაში*
 
 [EN](https://joelthomastr.github.io/pommersion/) | KA | [TR](https://joelthomastr.github.io/pommersion/tr)
 
@@ -211,4 +211,4 @@
 <div style="text-align:right"><a href="#top">შემადგენლობა</a></div>
 
 -----
-Version 5.2 (1) <br>&#169; 2020 Joel Thomas<br>[კომენტარები](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
+Version 5.2 (2) <br>&#169; 2020 Joel Thomas<br>[კომენტარები](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
