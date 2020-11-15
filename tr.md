@@ -1,4 +1,4 @@
-# Pommersion <a name="top"></a>
+# <img src="logo_v1.svg" height="50" width="50" /> Pommersion <a name="top"></a>
 
 *Dilin içinde kalarak dil öğrenme oyunu*
 
@@ -211,4 +211,4 @@ Bir oyuncu sırası gelince ne diyeceğini bilemiyorsa, moderatör ya da bir yar
 <div style="text-align:right"><a href="#top">İçindekiler</a></div>
 
 -----
-Versiyon 5.2 (0) <br>&#169; 2020 Joel Thomas<br>[Yorumlarınız](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
+Versiyon 5.3 (0) <br>&#169; 2020 Joel Thomas<br>[Yorumlarınız](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)

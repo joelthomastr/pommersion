@@ -1,4 +1,4 @@
-# პომერსია <a name="top"></a>
+# <img src="logo_v1.svg" height="50" width="50" /> პომერსია <a name="top"></a>
 
 *უცხო ენის შესწავლა - თამაში*
 
@@ -211,4 +211,4 @@
 <div style="text-align:right"><a href="#top">სარჩევი</a></div>
 
 -----
-Version 5.2 (3) <br>&#169; 2020 Joel Thomas<br>[კომენტარები](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
+Version 5.3 (0) <br>&#169; 2020 Joel Thomas<br>[კომენტარები](https://docs.google.com/forms/d/e/1FAIpQLScMbxynYi-_2QWi6Afp2smonAVkPGx6LHWZGwVMsvc-JTFkBA/viewform?usp=pp_url)
